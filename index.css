@@ -1,0 +1,45 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+/* .block {
+    display: block;
+    width: 50%;
+    border: none;
+    background-color: #ff6367;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    
+  } */
+
+  .title {
+      font-weight: bold;
+  }
+
+  .paragraph {
+      line-height: 2;
+  }
+
+  .btn {
+      color: white;
+      background-color: #ff6367;
+      border-color:  #ff6367
+  }
+
+#price {
+      color: red;
+      font-size: 30px;
+  }
+.strikeprice {
+      text-decoration: line-through;
+  }
+
+ 
+
+
+  
